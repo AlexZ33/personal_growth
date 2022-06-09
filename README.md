@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-11-23 11:07:09
- * @LastEditTime: 2022-05-06 16:46:45
+ * @LastEditTime: 2022-06-09 13:50:52
  * @LastEditors: zhaokang zhaokang1@xiaomi.com
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /personal_growth/README.md
@@ -33,6 +33,7 @@ Team management and personal improvement
 > 主要探讨如何积累管理方法论， 以及如何成为自己所期待的管理者
 
 
+## 项目管理
 
 # 参考书目
 《领导梯队》
@@ -41,3 +42,50 @@ Team management and personal improvement
 
 《驱动力3.0》
 
+《OKR使用手册》
+
+《OKR工作法：谷歌、领英等顶级公司的高绩效秘籍》
+
+《大规模Scrum: 大规模敏捷组织设计》
+
+《有效管理敏捷团队：快速成为优秀的ScrumMaster》
+
+《敏捷革命》
+
+《赋能: 打造应对不确定性的敏捷团队》
+
+《原则：应对变化中的世界秩序》
+
+《细节营销》
+
+《批判性思维》
+
+《权力：为什么只为某些人所拥有》
+
+《引爆点》
+
+《就业、利息和货币通论》
+
+《国富论》
+
+《区域贸易和国际贸易》
+
+《政治经济学及赋税原理》
+
+《噪声》
+
+《成本与效益》
+
+《创新者的窘境》
+
+《颠覆性创新》
+
+《规模与范围》
+
+《知识创造管理》
+
+《情商》
+
+《经济发展理论》
+
+《名牌的逻辑》
