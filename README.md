@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-11-23 11:07:09
- * @LastEditTime: 2022-06-09 13:50:52
+ * @LastEditTime: 2022-06-14 10:16:27
  * @LastEditors: zhaokang zhaokang1@xiaomi.com
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  * @FilePath: /personal_growth/README.md
@@ -46,6 +46,8 @@ Team management and personal improvement
 
 《OKR工作法：谷歌、领英等顶级公司的高绩效秘籍》
 
+《这就是OKR：让谷歌亚马逊实现爆炸性增长的工作法》
+
 《大规模Scrum: 大规模敏捷组织设计》
 
 《有效管理敏捷团队：快速成为优秀的ScrumMaster》
@@ -89,3 +91,7 @@ Team management and personal improvement
 《经济发展理论》
 
 《名牌的逻辑》
+
+# 拓展阅读
+
+[团队管理｜如何提高技术Leader的思考技巧？](https://mp.weixin.qq.com/s/joQoV-SPlaA2SiydHu4wFA)
