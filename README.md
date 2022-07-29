@@ -92,6 +92,19 @@ Team management and personal improvement
 
 《名牌的逻辑》
 
+《底层逻辑》
+
+《第一性原理》
+
+《系统之美》
+
+《21世纪资本论》
+
+《金字塔原理》
+
+《原则：应对变化中的世界秩序》
+
+
 # 拓展阅读
 
 [团队管理｜如何提高技术Leader的思考技巧？](https://mp.weixin.qq.com/s/joQoV-SPlaA2SiydHu4wFA)
